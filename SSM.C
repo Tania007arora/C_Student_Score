@@ -1,7 +1,6 @@
 /*
 * STUDENT SCORE MANAGEMENT SYSTEM (SSM)
 * author:Tania Arora
-* roll number -36888
 */
 #include <stdio.h>
 #include <string.h>  
